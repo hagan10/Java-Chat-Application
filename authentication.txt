@@ -5,4 +5,3 @@ jeff:daniels
 ryan:james
 bob:dylan
 jay:leno
-donald:trump
